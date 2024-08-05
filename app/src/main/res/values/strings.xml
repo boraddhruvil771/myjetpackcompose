@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyJetpackCompose</string>
+    <string name="app_email">Email</string>
+    <string name="app_user_name">User Name</string>
+</resources>
